@@ -1,0 +1,51 @@
+# Common technical + soft skills (editable)
+python
+java
+c++
+c
+go
+rust
+javascript
+typescript
+sql
+mongodb
+postgresql
+mysql
+aws
+azure
+gcp
+docker
+kubernetes
+linux
+git
+ci/cd
+jenkins
+terraform
+ansible
+machine learning
+deep learning
+nlp
+computer vision
+pandas
+numpy
+scikit-learn
+pytorch
+tensorflow
+matplotlib
+seaborn
+data analysis
+data engineering
+apache spark
+hadoop
+etl
+airflow
+power bi
+tableau
+excel
+communication
+leadership
+teamwork
+problem solving
+project management
+agile
+scrum
